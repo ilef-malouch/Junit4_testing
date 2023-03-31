@@ -1,1 +1,2 @@
-"# Junit4_testing" 
+<h1>TP Test Logiciel</h1>
+<p>The goal of this practical work is to build Java classes and test them with JUnit. In the first part, we build a class that models sums of money and a first test verifying certain methods of this class. In the second part, we enrich this class and build tests while using advanced JUnit concepts. The third and final part describes the class modeling a wallet. This class uses the previous class, and tests are built for the wallet class.</p>
